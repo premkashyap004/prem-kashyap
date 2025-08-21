@@ -1,0 +1,78 @@
+{
+  "categories": {
+    "Full-Stack Development": [
+      "MERN",
+      "React",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "JavaScript",
+      "HTML5",
+      "CSS3"
+    ],
+    "AI & Machine Learning": [
+      "LlamaIndex",
+      "Langchain",
+      "LangGraph",
+      "Meta SAM",
+      "GPT-4o",
+      "ChromaDB",
+      "Python",
+      "Machine Learning"
+    ],
+    "Cloud & DevOps": [
+      "AWS EC2",
+      "AWS Lambda",
+      "AWS S3",
+      "AWS Textract",
+      "Docker",
+      "Kubernetes",
+      "Git",
+      "GitHub Actions"
+    ],
+    "Programming Languages": [
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "Java",
+      "C",
+      "C++"
+    ]
+  },
+  "certifications": [
+    {
+      "title": "AWS Certified Developer \u2013 Associate",
+      "description": "Professional certification for AWS development and deployment",
+      "year": "2023",
+      "icon": "\u2601\ufe0f",
+      "link": "https://www.credly.com/badges/your-badge-id",
+      "issuer": "Amazon Web Services"
+    },
+    {
+      "title": "Oracle Generative AI Certificate",
+      "description": "Advanced certification in generative AI technologies and implementation",
+      "year": "2024",
+      "icon": "\ud83c\udfc6",
+      "link": "https://catalog-education.oracle.com/pls/certview/sharebadge?id=your-id",
+      "issuer": "Oracle"
+    },
+    {
+      "title": "AWS AI Practitioner",
+      "description": "Specialized certification in AWS AI and machine learning services",
+      "year": "2025",
+      "icon": "\ud83e\udd16",
+      "link": "#",
+      "issuer": "Amazon Web Services"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Chronic Kidney Disease Prediction Using Different ML Algorithms",
+      "description": "Research paper comparing various machine learning algorithms for predicting chronic kidney disease with performance analysis and accuracy metrics.",
+      "year": "2022",
+      "link": "https://ieeexplore.ieee.org/document/your-paper-id",
+      "venue": "IEEE Conference",
+      "type": "conference"
+    }
+  ]
+}

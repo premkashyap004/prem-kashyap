@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Software Developer",
+    "company": "Sify Technologies Ltd.",
+    "location": "Chennai, India",
+    "period": "July 2023 \u2013 Present",
+    "type": "work",
+    "responsibilities": [
+      "Developed and deployed high-performance AI-powered applications in production environments",
+      "Led POCs and core feature integrations, ensuring technical excellence and strong UX",
+      "Managed CI/CD pipelines, microservices, and collaborated with cross-functional teams",
+      "Worked on cutting-edge AI/ML projects including semantic search and computer vision"
+    ]
+  },
+  {
+    "title": "B.E. Computer Science & Engineering",
+    "company": "Sri Sairam Engineering College",
+    "location": "Chennai",
+    "period": "2019 \u2013 2023",
+    "type": "education",
+    "description": "CGPA: 9.295 (till 5th sem)"
+  }
+]
