@@ -17,8 +17,8 @@
         "dev": "vite",
         "build": "vite build",
         "preview": "vite preview",
-        "deploy": "npm run build && wrangler deploy",
-        "deploy:preview": "npm run build && wrangler deploy --env preview",
+        "deploy": "npm run build && wrangler deploy --assets=./dist",
+        "deploy:preview": "npm run build && wrangler deploy --assets=./dist --env preview",
         "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
         "format": "prettier --write src/**/*.{js,jsx,css,md}",
         "clean": "rm -rf dist node_modules/.cache"
