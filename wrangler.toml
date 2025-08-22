@@ -1,4 +1,8 @@
 name = "prem-kashyap-portfolio"
 compatibility_date = "2024-08-21"
 
-pages_build_output_dir = "dist"
+[site]
+bucket = "./dist"
+
+[assets]
+directory = "./dist"
