@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import { useIntersectionObserver } from '../hooks/useIntersectionObserver'
+import portfolioData from '../data/portfolio.json'
 
 const Contact = () => {
   const ref = useIntersectionObserver()
@@ -86,11 +87,11 @@ const Contact = () => {
             <div className="contact-details">
               <div className="contact-item">
                 <span className="contact-icon">📍</span>
-                <span>Chennai, India</span>
+                <span>{portfolioData.personal.location}</span>
               </div>
               <div className="contact-item">
                 <span className="contact-icon">📧</span>
-                <a href="mailto:prem.kashhyap.0206@gmail.com">prem.kashhyap.0206@gmail.com</a>
+                <a href={`mailto:${portfolioData.personal.email}`}>{portfolioData.personal.email}</a>
               </div>
             </div>
 
