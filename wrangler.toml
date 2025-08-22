@@ -1,0 +1,15 @@
+name = "prem-kashyap-portfolio"
+main = "./dist/index.html"
+compatibility_date = "2024-08-21"
+
+[site]
+bucket = "./dist"
+
+# Environment variables (if needed)
+# [vars]
+# KEY = "value"
+
+# For custom domain (optional)
+# routes = [
+#   { pattern = "example.com/*", zone_name = "example.com" }
+# ]

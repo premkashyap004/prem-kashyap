@@ -1,0 +1,29 @@
+{
+    "personal": {
+        "name": "Prem Kashyap",
+        "title": "Software Developer",
+        "location": "Chennai, India",
+        "email": "prem.kashhyap.0206@gmail.com",
+        "github": "https://github.com/premkashyap004",
+        "linkedin": "www.linkedin.com/in/prem-kashyap-chilakamarthi"
+    },
+    "bio": {
+        "tagline": "Proactive and innovative Software Developer with 2+ years of expertise in AI/ML, full-stack development, and cloud technologies. Passionate about bringing impactful AI solutions from proof-of-concept to production.",
+        "description": "I'm a passionate Software Developer with over 2 years of experience at Sify Technologies, specializing in cutting-edge AI/ML solutions, full-stack development, and cloud technologies. My expertise spans from developing high-performance AI-powered applications to managing CI/CD pipelines and microservices architecture.",
+        "education": "I hold a B.E. in Computer Science & Engineering from Sri Sairam Engineering College with a CGPA of 9.295. My passion lies in transforming innovative ideas into production-ready solutions, particularly in the realm of artificial intelligence and machine learning."
+    },
+    "stats": [
+        {
+            "number": "2+",
+            "label": "Years Experience"
+        },
+        {
+            "number": "6+",
+            "label": "Projects Completed"
+        },
+        {
+            "number": "3",
+            "label": "AWS Certifications"
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+[
+    {
+        "title": "Real-time Wall Paint Overlay",
+        "description": "Computer vision POC that detects walls in images/videos and overlays desired colors using Meta's SAM model for segmentation.",
+        "technologies": [
+            "Meta SAM",
+            "Computer Vision",
+            "Python",
+            "Image Processing"
+        ],
+        "category": "AI/ML",
+        "type": "POC",
+        "status": "completed",
+        "github": "#",
+        "demo": "#",
+        "featured": true
+    },
+    {
+        "title": "Semantic Search Engine",
+        "description": "Advanced search engine for Times of India using LlamaIndex with ChromaDB as vector store. Features entity recognition and synonym searching on text and image content.",
+        "technologies": [
+            "LlamaIndex",
+            "ChromaDB",
+            "Python",
+            "Vector Search",
+            "NLP"
+        ],
+        "category": "AI/ML",
+        "type": "Production",
+        "status": "completed",
+        "github": "#",
+        "demo": "#",
+        "featured": true
+    },
+    {
+        "title": "Media Library Application",
+        "description": "Full-stack MERN application that enriches media files with AI-generated captions, object detection, and categorization using the semantic search engine.",
+        "technologies": [
+            "MERN",
+            "React",
+            "Node.js",
+            "MongoDB",
+            "AI Integration"
+        ],
+        "category": "Full-Stack",
+        "type": "Application",
+        "status": "completed",
+        "github": "#",
+        "demo": "#",
+        "featured": true
+    },
+    {
+        "title": "Storyboard Generation Tool",
+        "description": "Python application for instructional designers to extract content from source documents and generate storyboards based on Bloom's taxonomy and custom prompts.",
+        "technologies": [
+            "Python",
+            "AI",
+            "Document Processing",
+            "PDF Handling"
+        ],
+        "category": "AI/ML",
+        "type": "Tool",
+        "status": "completed",
+        "github": "#",
+        "demo": "#",
+        "featured": false
+    },
+    {
+        "title": "Scout AI - Children's Companion",
+        "description": "AI assistant for children aged 4-12 using GPT-4o real-time capabilities. Features bedtime stories, homework help, and multi-agent conversation switching.",
+        "technologies": [
+            "GPT-4o",
+            "Python",
+            "Multi-Agent Systems",
+            "Real-time AI"
+        ],
+        "category": "AI/ML",
+        "type": "POC",
+        "status": "completed",
+        "github": "#",
+        "demo": "#",
+        "featured": false
+    },
+    {
+        "title": "Assessment Generation POC",
+        "description": "Automated system to create educational assessments from source documents using AI-powered content extraction and question generation.",
+        "technologies": [
+            "Python",
+            "AI",
+            "Natural Language Processing",
+            "Education Tech"
+        ],
+        "category": "AI/ML",
+        "type": "POC",
+        "status": "completed",
+        "github": "#",
+        "demo": "#",
+        "featured": false
+    }
+]
