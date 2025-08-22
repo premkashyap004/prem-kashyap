@@ -1,9 +1,0 @@
-name = "prem-kashyap-portfolio"
-compatibility_date = "2025-08-22"
-
-[build]
-command = "npm run deploy"
-cwd = "."
-
-[site]
-bucket = "./dist"
