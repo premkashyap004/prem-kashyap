@@ -1,5 +1,9 @@
-name = "prem-kashyap"
+name = "prem-kashyap-portfolio"
 compatibility_date = "2025-08-22"
 
-[assets]
-directory = "./dist"
+[build]
+command = "npm run deploy"
+cwd = "."
+
+[site]
+bucket = "./dist"
