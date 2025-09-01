@@ -16,7 +16,14 @@ const Experience = () => {
               <div className="timeline-content">
                 <div className="timeline-header">
                   <h3>{experience.title}</h3>
-                  <span className="company">{experience.company}</span>
+                  <a
+                    href={experience.website}
+                    className="company"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    {experience.company}
+                  </a>
                 </div>
 
                 <div className="timeline-meta">
