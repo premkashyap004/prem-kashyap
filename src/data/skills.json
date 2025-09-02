@@ -2,33 +2,28 @@
     "categories": {
         "Full-Stack Development": [
             "MERN",
-            "React",
-            "Node.js",
-            "Express.js",
-            "MongoDB",
+            "MEAN",
             "JavaScript",
             "HTML5",
-            "CSS3"
+            "CSS3",
+            "Python"
         ],
         "AI & Machine Learning": [
             "LlamaIndex",
             "Langchain",
             "LangGraph",
-            "Meta SAM",
-            "GPT-4o",
-            "ChromaDB",
-            "Python",
-            "Machine Learning"
+            "OpenAI",
+            "ChromaDB"
         ],
         "Cloud & DevOps": [
             "AWS EC2",
             "AWS Lambda",
             "AWS S3",
-            "AWS Textract",
             "Docker",
             "Kubernetes",
-            "Git",
-            "GitHub Actions"
+            "GitHub Actions",
+            "Grafana",
+            "Prometheus"
         ],
         "Programming Languages": [
             "Python",
@@ -36,7 +31,8 @@
             "TypeScript",
             "Java",
             "C",
-            "C++"
+            "MongoDB",
+            "SQL"
         ]
     },
     "certifications": [

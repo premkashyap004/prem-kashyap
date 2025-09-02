@@ -1,56 +1,35 @@
 [
     {
-        "title": "Real-time Wall Paint Overlay",
-        "description": "Computer vision POC that detects walls in images/videos and overlays desired colors using Meta's SAM model for segmentation.",
+        "title": "Skillflo",
+        "description": "MEAN-based eLearning platform featuring integrated assessment, storyboard, and media enrichment tools.",
         "technologies": [
-            "Meta SAM",
-            "Computer Vision",
-            "Python",
-            "Image Processing"
+            "MEAN Stack",
+            "AI Integration",
+            "Python"
         ],
-        "category": "AI/ML",
-        "type": "POC",
-        "status": "completed",
+        "category": "Full-Stack",
+        "type": "Projects",
+        "status": "ongoing",
         "github": "#",
         "demo": "#",
-        "featured": true
-    },
-    {
-        "title": "Semantic Search Engine",
-        "description": "Advanced search engine for Times of India using LlamaIndex with ChromaDB as vector store. Features entity recognition and synonym searching on text and image content.",
-        "technologies": [
-            "LlamaIndex",
-            "ChromaDB",
-            "Python",
-            "Vector Search",
-            "NLP"
-        ],
-        "category": "AI/ML",
-        "type": "Production",
-        "status": "completed",
-        "github": "#",
-        "demo": "#",
-        "featured": true
+        "featured": false
     },
     {
         "title": "Media Library Application",
-        "description": "Full-stack MERN application that enriches media files with AI-generated captions, object detection, and categorization using the semantic search engine.",
+        "description": "Full-stack MERN application that enriches media files (videos, images) with AI-generated captions, object detection, and categorization using the semantic search engine.",
         "technologies": [
             "MERN",
-            "React",
-            "Node.js",
-            "MongoDB",
             "AI Integration"
         ],
         "category": "Full-Stack",
-        "type": "Application",
+        "type": "Projects",
         "status": "completed",
         "github": "#",
         "demo": "#",
-        "featured": true
+        "featured": false
     },
     {
-        "title": "Storyboard Generation Tool",
+        "title": "Storyboard Generation",
         "description": "Python application for instructional designers to extract content from source documents and generate storyboards based on Bloom's taxonomy and custom prompts.",
         "technologies": [
             "Python",
@@ -59,7 +38,7 @@
             "PDF Handling"
         ],
         "category": "AI/ML",
-        "type": "Tool",
+        "type": "POC",
         "status": "completed",
         "github": "#",
         "demo": "#",
@@ -89,6 +68,39 @@
             "AI",
             "Natural Language Processing",
             "Education Tech"
+        ],
+        "category": "AI/ML",
+        "type": "POC",
+        "status": "completed",
+        "github": "#",
+        "demo": "#",
+        "featured": false
+    },
+    {
+        "title": "Real-time Wall Paint Overlay",
+        "description": "Computer vision POC that detects walls in images/videos and overlays desired colors using Meta's SAM model for segmentation.",
+        "technologies": [
+            "Meta SAM",
+            "Computer Vision",
+            "Python",
+            "Image Processing"
+        ],
+        "category": "AI/ML",
+        "type": "POC",
+        "status": "completed",
+        "github": "#",
+        "demo": "#",
+        "featured": false
+    },
+    {
+        "title": "Semantic Search Engine",
+        "description": "Advanced search engine for Times of India using LlamaIndex with ChromaDB as vector store. Features entity recognition and synonym searching on text and image content.",
+        "technologies": [
+            "LlamaIndex",
+            "ChromaDB",
+            "Python",
+            "Vector Search",
+            "NLP"
         ],
         "category": "AI/ML",
         "type": "POC",
