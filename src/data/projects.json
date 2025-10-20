@@ -1,5 +1,34 @@
 [
     {
+        "title": "Ticket Resolution Automation using Agentic AI",
+        "description": "Automated Agentic AI system to resolve incident tickets that are raised by the monitering systems in real time for on-premise and sify's cloud environments.",
+        "technologies": [
+            "Python",
+            "Agentic AI"
+        ],
+        "category": "AI/ML",
+        "type": "Projects",
+        "status": "ongoing",
+        "github": "#",
+        "demo": "#",
+        "featured": true
+    },
+    {
+        "title": "MCP Servers",
+        "description": "Created MCPs like ssh-server, code generator (generator, debugger, executor) for Sify's Agentic AI applications to streamline the communication between the applications, llm and the cloud infrastructure.",
+        "technologies": [
+            "Python",
+            "MCPs",
+            "Agentic AI"
+        ],
+        "category": "AI/ML",
+        "type": "POC",
+        "status": "ongoing",
+        "github": "#",
+        "demo": "#",
+        "featured": true
+    },
+    {
         "title": "Skillflo",
         "description": "MEAN-based eLearning platform featuring integrated assessment, storyboard, and media enrichment tools.",
         "technologies": [
