@@ -127,7 +127,7 @@ const Footer = () => {
 
                             {/* Resume Download */}
                             <a
-                                href="/assets/Prem Kashyap Chilakamarthi's Resume.pdf"
+                                href="/assets/Prem-Kashyap-Chilakamarthi-Resume.pdf"
                                 download
                                 className="footer-resume-btn"
                                 aria-label="Download Resume"

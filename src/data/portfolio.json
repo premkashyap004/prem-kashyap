@@ -1,7 +1,7 @@
 {
     "personal": {
         "name": "Prem Kashyap",
-        "title": "Software Developer",
+        "title": "Generative AI Developer",
         "location": "Chennai, India",
         "email": "prem.kashyap.0206@gmail.com",
         "github": "https://github.com/premkashyap004",
@@ -14,7 +14,7 @@
     },
     "stats": [
         {
-            "number": "2+",
+            "number": "3",
             "label": "Years Experience"
         },
         {
@@ -22,12 +22,12 @@
             "label": "POCs Developed"
         },
         {
-            "number": "2",
+            "number": "4",
             "label": "Projects Completed"
         },
         {
             "number": "3",
-            "label": "AWS Certifications"
+            "label": "Certifications"
         }
     ]
 }
