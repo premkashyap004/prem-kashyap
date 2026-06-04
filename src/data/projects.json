@@ -1,129 +1,57 @@
 [
     {
-        "title": "Ticket Resolution Automation using Agentic AI",
-        "description": "Automated Agentic AI system to resolve incident tickets that are raised by the monitering systems in real time for on-premise and sify's cloud environments.",
+        "title": "AI-Driven IT Operations Automation",
+        "description": "Built AI-driven automation workflows for Linux and SAP operations using an in-house orchestration platform. Automated access provisioning, permissions management, monitoring, and operational workflows through SSH-based execution and SAP RFC integrations, reducing manual effort while maintaining governance through approval workflows and audit logging.",
         "technologies": [
             "Python",
+            "FastAPI",
+            "MongoDB",
+            "Linux",
+            "SAP RFC",
             "Agentic AI"
         ],
         "category": "AI/ML",
-        "type": "Projects",
+        "type": "Project",
         "status": "ongoing",
-        "github": "#",
-        "demo": "#",
         "featured": true
     },
     {
-        "title": "MCP Servers",
-        "description": "Created MCPs like ssh-server, code generator (generator, debugger, executor) for Sify's Agentic AI applications to streamline the communication between the applications, llm and the cloud infrastructure.",
+        "title": "Ticket Resolution Automation System",
+        "description": "Developed a multi-agent incident response platform using LangGraph to automate cloud and infrastructure ticket triage, root-cause analysis, and OS-level remediation. Integrated MCP-based operational chatbots, LangFuse observability, and human-in-the-loop approval workflows, reducing resolution times by 40–50%.",
         "technologies": [
+            "LangGraph",
             "Python",
-            "MCPs",
-            "Agentic AI"
+            "FastAPI",
+            "Redis",
+            "React",
+            "MCP",
+            "LangFuse"
         ],
         "category": "AI/ML",
-        "type": "POC",
+        "type": "Project",
         "status": "ongoing",
-        "github": "#",
-        "demo": "#",
         "featured": true
     },
     {
-        "title": "Skillflo",
-        "description": "MEAN-based eLearning platform featuring integrated assessment, storyboard, and media enrichment tools.",
+        "title": "Skillflo - GenAI Learning Platform",
+        "description": "Architected AI-powered learning platform enabling storyboard generation, assessment creation, media enrichment, and text-to-video workflows. Implemented multi-tenant RAG pipelines using ChromaDB and LlamaIndex for semantic search across storyboards and media assets, with source-grounded AI chatbots and fact-checking capabilities.",
         "technologies": [
-            "MEAN Stack",
-            "AI Integration",
-            "Python"
+            "LangChain",
+            "LlamaIndex",
+            "ChromaDB",
+            "AWS",
+            "Node.js",
+            "Flask",
+            "RAG"
         ],
-        "category": "Full-Stack",
-        "type": "Projects",
+        "category": "AI/ML",
+        "type": "Project",
         "status": "ongoing",
-        "github": "#",
-        "demo": "#",
         "featured": false
     },
     {
-        "title": "Media Library Application",
-        "description": "Full-stack MERN application that enriches media files (videos, images) with AI-generated captions, object detection, and categorization using the semantic search engine.",
-        "technologies": [
-            "MERN",
-            "AI Integration"
-        ],
-        "category": "Full-Stack",
-        "type": "Projects",
-        "status": "completed",
-        "github": "#",
-        "demo": "#",
-        "featured": false
-    },
-    {
-        "title": "Storyboard Generation",
-        "description": "Python application for instructional designers to extract content from source documents and generate storyboards based on Bloom's taxonomy and custom prompts.",
-        "technologies": [
-            "Python",
-            "AI",
-            "Document Processing",
-            "PDF Handling"
-        ],
-        "category": "AI/ML",
-        "type": "POC",
-        "status": "completed",
-        "github": "#",
-        "demo": "#",
-        "featured": false
-    },
-    {
-        "title": "Scout AI - Children's Companion",
-        "description": "AI assistant for children aged 4-12 using GPT-4o real-time capabilities. Features bedtime stories, homework help, and multi-agent conversation switching.",
-        "technologies": [
-            "GPT-4o",
-            "Python",
-            "Multi-Agent Systems",
-            "Real-time AI"
-        ],
-        "category": "AI/ML",
-        "type": "POC",
-        "status": "completed",
-        "github": "#",
-        "demo": "#",
-        "featured": false
-    },
-    {
-        "title": "Assessment Generation POC",
-        "description": "Automated system to create educational assessments from source documents using AI-powered content extraction and question generation.",
-        "technologies": [
-            "Python",
-            "AI",
-            "Natural Language Processing",
-            "Education Tech"
-        ],
-        "category": "AI/ML",
-        "type": "POC",
-        "status": "completed",
-        "github": "#",
-        "demo": "#",
-        "featured": false
-    },
-    {
-        "title": "Real-time Wall Paint Overlay",
-        "description": "Computer vision POC that detects walls in images/videos and overlays desired colors using Meta's SAM model for segmentation.",
-        "technologies": [
-            "Meta SAM",
-            "Computer Vision",
-            "Python",
-            "Image Processing"
-        ],
-        "category": "AI/ML",
-        "type": "POC",
-        "status": "completed",
-        "github": "#",
-        "demo": "#",
-        "featured": false
-    },
-    {
-        "title": "Semantic Search Engine",
-        "description": "Advanced search engine for Times of India using LlamaIndex with ChromaDB as vector store. Features entity recognition and synonym searching on text and image content.",
+        "title": "Semantic Media Search Engine",
+        "description": "Built an enterprise semantic search platform using ChromaDB and LlamaIndex for cross-domain retrieval of images, videos, documents, and learning assets. Supported entity recognition, synonym search, and multimodal content discovery.",
         "technologies": [
             "LlamaIndex",
             "ChromaDB",
@@ -134,8 +62,78 @@
         "category": "AI/ML",
         "type": "POC",
         "status": "completed",
-        "github": "#",
-        "demo": "#",
         "featured": false
+    },
+    {
+        "title": "Scout AI - Children's Companion",
+        "description": "Developed a real-time AI companion for children aged 4–12 using GPT-4o and FastRTC. Implemented multi-agent conversation switching, adaptive storytelling, homework assistance, AI-generated quizzes, and age-appropriate safety guardrails.",
+        "technologies": [
+            "GPT-4o",
+            "Python",
+            "FastRTC",
+            "Multi-Agent Systems",
+            "React"
+        ],
+        "category": "AI/ML",
+        "type": "POC",
+        "status": "completed",
+        "featured": false
+    },
+    {
+        "title": "Storyboard Generation Platform",
+        "description": "Created an AI-assisted content authoring solution that extracts knowledge from source documents and automatically generates instructional storyboards aligned with Bloom's Taxonomy and custom learning objectives.",
+        "technologies": [
+            "Python",
+            "LLMs",
+            "Document Processing",
+            "Prompt Engineering"
+        ],
+        "category": "AI/ML",
+        "type": "POC",
+        "status": "completed",
+        "featured": false
+    },
+    {
+        "title": "Assessment Generation Engine",
+        "description": "Built an AI-powered assessment generation system capable of extracting content from source documents and creating adaptive question banks, quizzes, and evaluation material for learning platforms.",
+        "technologies": [
+            "Python",
+            "NLP",
+            "LLMs",
+            "Education Technology"
+        ],
+        "category": "AI/ML",
+        "type": "POC",
+        "status": "completed",
+        "featured": false
+    },
+    {
+        "title": "AI-Powered Media Library",
+        "description": "Developed a MERN-based media management platform that enriches images and videos with AI-generated metadata, captions, object detection, categorization, and semantic search capabilities.",
+        "technologies": [
+            "MERN",
+            "Computer Vision",
+            "AI Integration",
+            "Semantic Search"
+        ],
+        "category": "Full-Stack",
+        "type": "Project",
+        "status": "completed",
+        "featured": false
+    },
+    {
+        "title": "MCP Server Ecosystem",
+        "description": "Designed and developed reusable MCP servers including SSH execution, code generation, debugging, and execution services to enable secure tool integration between LLM applications, cloud infrastructure, and enterprise systems.",
+        "technologies": [
+            "Python",
+            "MCP",
+            "Agentic AI",
+            "Linux",
+            "FastAPI"
+        ],
+        "category": "AI/ML",
+        "type": "Platform",
+        "status": "ongoing",
+        "featured": true
     }
 ]

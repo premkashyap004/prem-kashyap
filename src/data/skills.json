@@ -1,29 +1,48 @@
 {
     "categories": {
-        "Full-Stack Development": [
-            "MERN",
-            "MEAN",
-            "JavaScript",
-            "HTML5",
-            "CSS3",
-            "Python"
-        ],
-        "AI & Machine Learning": [
+        "Generative AI & Agentic Systems": [
+            "LangChain",
             "LlamaIndex",
-            "Langchain",
             "LangGraph",
             "OpenAI",
-            "ChromaDB"
+            "Hugging Face",
+            "LangFuse",
+            "MCP",
+            "Multi-Agent Systems",
+            "RAG",
+            "Prompt Engineering"
         ],
-        "Cloud & DevOps": [
-            "AWS EC2",
-            "AWS Lambda",
-            "AWS S3",
+        "LLM Inference & AI Infrastructure": [
+            "vLLM",
+            "TensorRT-LLM",
+            "XInference",
+            "Ollama",
+            "ChromaDB",
+            "Pinecone",
+            "FAISS",
+            "Redis"
+        ],
+        "Backend & Full-Stack Development": [
+            "Python",
+            "FastAPI",
+            "Flask",
+            "Node.js",
+            "React",
+            "Socket.IO",
+            "FastRTC",
+            "MongoDB",
+            "PostgreSQL"
+        ],
+        "Cloud, DevOps & Observability": [
+            "AWS",
+            "GCP",
             "Docker",
             "Kubernetes",
             "GitHub Actions",
             "Grafana",
-            "Prometheus"
+            "Prometheus",
+            "Linux",
+            "CI/CD"
         ],
         "Programming Languages": [
             "Python",
@@ -31,43 +50,42 @@
             "TypeScript",
             "Java",
             "C",
-            "MongoDB",
             "SQL"
         ]
     },
     "certifications": [
         {
-            "title": "AWS Certified Developer \u2013 Associate",
-            "description": "Professional certification for AWS development and deployment",
+            "title": "AWS Certified AI Practitioner",
+            "description": "Professional certification covering AI, machine learning, generative AI workloads, and AWS AI services.",
+            "year": "2026",
+            "icon": "🤖",
+            "link": "https://www.credly.com/badges/608a2d72-4a2c-44a5-8ebb-f03db8aaf561",
+            "issuer": "Amazon Web Services"
+        },
+        {
+            "title": "AWS Certified Developer – Associate",
+            "description": "Professional certification validating cloud application development, deployment, and AWS best practices.",
             "year": "2023",
-            "icon": "\u2601\ufe0f",
+            "icon": "☁️",
             "link": "https://www.credly.com/badges/7a9560b3-ac1b-4d67-85ca-531d218493ce",
             "issuer": "Amazon Web Services"
         },
         {
-            "title": "Oracle Generative AI Certificate",
-            "description": "Advanced certification in generative AI technologies and implementation",
+            "title": "Oracle Generative AI Professional",
+            "description": "Certification covering large language models, prompt engineering, retrieval-augmented generation, and enterprise AI applications.",
             "year": "2024",
-            "icon": "\ud83c\udfc6",
+            "icon": "🏆",
             "link": "https://catalog-education.oracle.com/ords/certview/sharebadge?id=0996E9875F735F26A123D7DC7CC6B64A5AB423C7B96B42A4822CAC284B68B6F7",
             "issuer": "Oracle"
-        },
-        {
-            "title": "AWS AI Practitioner",
-            "description": "Specialized certification in AWS AI and machine learning services",
-            "year": "2025",
-            "icon": "\ud83e\udd16",
-            "link": "/assets/certificates/Udemy-AWS-Certified-AI-Practitioner.pdf",
-            "issuer": "Udemy"
         }
     ],
     "publications": [
         {
             "title": "Chronic Kidney Disease Prediction Using Different ML Algorithms",
-            "description": "Research paper comparing various machine learning algorithms for predicting chronic kidney disease with performance analysis and accuracy metrics.",
+            "description": "Comparative study evaluating multiple machine learning algorithms for chronic kidney disease prediction, including performance analysis and classification accuracy benchmarking.",
             "year": "2022",
             "link": "https://ieeexplore.ieee.org/document/10040329",
-            "venue": "IEEE Conference",
+            "venue": "IEEE International Conference",
             "type": "conference"
         }
     ]
